@@ -5,6 +5,4 @@
 void foo(int num);
 void goo();
 
-void goo();
-
 #endif
